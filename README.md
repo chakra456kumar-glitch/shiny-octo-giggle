@@ -2,3 +2,5 @@
 Practice codes for learning Python
 Task1.py-Performs addition, subtraction, multiplication, and division.
 Task2.py-Take first name and last name, Concatenate them in full name and display greeting Message with Full name
+Task 1 - Calculate Even or Odd Number
+Task2 calculate sum from 1 to 50 
